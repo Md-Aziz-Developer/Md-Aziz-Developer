@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm <strong>Md Aziz</strong></h1>
-<p>A dedicated LAMP stack developer specializing in <strong>PHP, MySQL, CodeIgniter, and REST APIs</strong>. I excel at creating scalable, robust web solutions and managing Linux-based server environments.
-<br><br>
-Additionally, I’m expanding my skills in <strong>Machine Learning</strong>, having worked with data preparation, model selection, prediction, evaluation, and optimization using <strong>scikit-learn</strong>. My experience in mobile development with <strong>Flutter</strong> further enhances my ability to integrate web and mobile technologies seamlessly.</p>
+<p>I'm a <strong>LAMP stack</strong> developer focused on building scalable, secure web applications using 
+<strong>PHP</strong>, <strong>MySQL</strong>, <strong>CodeIgniter</strong>, and <strong>Linux</strong>.<br><br> My recent 
+<strong>Machine Learning</strong> projects, such as heart disease classification and price prediction, highlight 
+my abilities in data preparation, model development, and predictive analytics using tools like 
+<strong>scikit-learn</strong> and <strong>TensorFlow</strong>. Passionate about continuous improvement, I aim to 
+leverage <strong>ML</strong> to create smarter, more responsive applications.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aziz-developer&label=Profile%20views&color=0e75b6&style=flat" alt="md-aziz-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-aziz-developer" alt="md-aziz-developer" /></a> </p>
