@@ -9,9 +9,9 @@ leverage <strong>ML</strong> to create smarter, more responsive applications.</p
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-aziz-developer" alt="md-aziz-developer" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently Building Skills in **Machine Learning** & **Deep Learning Neural Networks**
 
-- 💬 Ask me about **PHP, Rest APIs, Flutter, Python**
+- 💬 Ask me about **PHP, Rest APIs, Python, Scikit Learn**
 
 - 📫 How to reach me **mdaziz6632@gmail.com**
 
