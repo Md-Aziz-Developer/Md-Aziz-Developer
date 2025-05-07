@@ -18,7 +18,7 @@ leverage <strong>ML</strong> to create smarter, more responsive applications.</p
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-aziz-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-aziz-developer" height="30" width="40" /></a>
-<a href="https://instagram.com/mdaziz_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdaziz_yt" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mdazizdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdaziz_yt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdazizdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdazizdeveloper" height="30" width="40" /></a>
 </p>
 
