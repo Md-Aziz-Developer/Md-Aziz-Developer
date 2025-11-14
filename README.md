@@ -1,19 +1,38 @@
 <h1 align="center">Hi 👋, I'm <strong>Md Aziz</strong></h1>
-<p>I'm a <strong>LAMP stack</strong> developer focused on building scalable, secure web applications using 
-<strong>PHP</strong>, <strong>MySQL</strong>, <strong>CodeIgniter</strong>, and <strong>Linux</strong>.<br><br> My recent 
-<strong>Machine Learning</strong> projects, such as heart disease classification and price prediction, highlight 
-my abilities in data preparation, model development, and predictive analytics using tools like 
-<strong>scikit-learn</strong> and <strong>TensorFlow</strong>. Passionate about continuous improvement, I aim to 
-leverage <strong>ML</strong> to create smarter, more responsive applications.</p>
+<h2>🔥 Backend & ML Engineer</h2>
+
+<p>
+  Building scalable APIs and intelligent systems using <strong>FastAPI</strong>, 
+  <strong>Python</strong>, and modern <strong>AI/NLP models</strong>. 
+  I focus on designing high-performance architectures, integrating ML into production, 
+  and creating automation systems that make applications faster and smarter.
+</p>
+
+<p>
+  My work includes FastAPI middleware for async task offloading, 
+  NLP-powered ticketing systems (duplicate & sentiment detection), 
+  and real-world projects like <strong>Daily Hisab (10K+ users)</strong>. 
+  I enjoy blending backend engineering with practical ML to build systems that scale efficiently.
+</p>
+
+<h3>🌱 Currently Working On</h3>
+<ul>
+  <li>Migrating production apps to <strong>FastAPI</strong></li>
+  <li>AI-driven safety platform (<strong>SafeNet Guardian</strong>)</li>
+  <li>Domain-specific NLP models & agentic AI workflows</li>
+</ul>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aziz-developer&label=Profile%20views&color=0e75b6&style=flat" alt="md-aziz-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-aziz-developer" alt="md-aziz-developer" /></a> </p>
 
-- 🌱 I’m currently Building Skills in **Machine Learning** & **Deep Learning Neural Networks**
+<h3>💬 Ask Me About</h3>
+<p>
+  <strong>FastAPI · Python · PHP/Laravel · REST APIs · SQL Optimization · NLP · TensorFlow · SaaS Architecture</strong>
+</p>
 
-- 💬 Ask me about **PHP, Rest APIs, Python, Scikit Learn**
-
-- 📫 How to reach me **mdaziz6632@gmail.com**
+<h3>📫 Reach Me At</h3>
+<p><a href="mail:mdaziz6632@gmail.com"><strong>mdaziz6632@gmail.com</strong></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
