@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm <strong>Md Aziz</strong></h1>
 <h2>🔥 Backend & ML Engineer</h2>
 
-<p>
-  Building scalable APIs and intelligent systems using <strong>FastAPI</strong>, 
+<p>Building scalable APIs and intelligent systems using <strong>FastAPI</strong>, 
   <strong>Python</strong>, and modern <strong>AI/NLP models</strong>. 
   I focus on designing high-performance architectures, integrating ML into production, 
   and creating automation systems that make applications faster and smarter.
 </p>
 
-<p>
-  My work includes FastAPI middleware for async task offloading, 
+<p>My work includes FastAPI middleware for async task offloading, 
   NLP-powered ticketing systems (duplicate & sentiment detection), 
   and real-world projects like <strong>Daily Hisab (10K+ users)</strong>. 
   I enjoy blending backend engineering with practical ML to build systems that scale efficiently.
