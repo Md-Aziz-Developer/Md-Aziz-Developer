@@ -17,7 +17,7 @@
 <ul>
   <li>Migrating production apps to <strong>FastAPI</strong></li>
   <li>AI-driven safety platform (<strong>SafeNet Guardian</strong>)</li>
-  <li>Domain-specific NLP models & agentic AI workflows</li>
+  <li>Domain-specific NLP models & Agentic AI workflows</li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aziz-developer&label=Profile%20views&color=0e75b6&style=flat" alt="md-aziz-developer" /> </p>
@@ -31,6 +31,7 @@
 
 <h3>📫 Reach Me At</h3>
 <p><a href="mail:mdaziz6632@gmail.com"><strong>mdaziz6632@gmail.com</strong></a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
