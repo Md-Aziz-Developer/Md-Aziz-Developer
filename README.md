@@ -16,7 +16,7 @@
 <h3>🌱 Currently Working On</h3>
 <ul>
   <li>Migrating production apps to <strong>FastAPI</strong></li>
-  <li>AI-driven safety platform (<strong>SafeNet Guardian</strong>)</li>
+  <li>AI-driven Safety Platform (<strong>SafeNet Guardian</strong>)</li>
   <li>Domain-specific NLP models & Agentic AI workflows</li>
 </ul>
 
