@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am <strong>Md Aziz</strong></h1>
+<h1 align="center">Hi 👋, I'm <strong>Md Aziz</strong></h1>
 <h2>🔥 Backend & ML Engineer | Building 10x Faster Automated Systems with Agentic AI</h2>
 
 <p>Building scalable APIs and intelligent systems using <strong>FastAPI</strong>, 
@@ -29,7 +29,7 @@
   <strong>FastAPI · Python · PHP/Laravel · REST APIs · SQL Optimization · NLP · TensorFlow · SaaS Architecture</strong>
 </p>
 
-<h3>📫 Reach Me At</h3>
+<h3>📫 Reach Me out for any job or work</h3>
 <p><a href="mail:mdaziz6632@gmail.com"><strong>mdaziz6632@gmail.com</strong></a></p>
 
 
